@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^7.3.3",
-    "jest": "^26.5.3"
+    "jest": "^26.5.3",
+    "shortid": "^2.2.15"
   }
 }
