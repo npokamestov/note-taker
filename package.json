@@ -1,0 +1,19 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express.js note taking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npokamestov/note-taker.git"
+  },
+  "author": "Nikita Pokamestov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npokamestov/note-taker/issues"
+  },
+  "homepage": "https://github.com/npokamestov/note-taker#readme"
+}
