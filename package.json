@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/npokamestov/note-taker#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "inquirer": "^7.3.3",
     "jest": "^26.5.3"
   }
